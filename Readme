@@ -1,0 +1,16 @@
+# Registration Form Project
+
+## Overview
+This project is a simple registration form built with HTML and CSS. It collects user information such as name, email, password, account type, and additional information. The form is designed to be user-friendly and visually appealing.
+
+## Features
+- Responsive design that works on various devices
+- Input validation for required fields
+- Clear labels and placeholders for better user experience
+- Ability to upload a profile picture
+- Dropdown menu for how users heard about the service
+- Terms and conditions acceptance checkbox
+
+## Technologies Used
+- HTML5
+- CSS3
